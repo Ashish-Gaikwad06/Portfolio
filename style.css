@@ -135,4 +135,8 @@ section p {
     flex-direction: column;
     align-items: flex-start;
   }
+  header {
+    margin-top: 2rem;
+  }
 }
+
