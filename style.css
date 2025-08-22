@@ -42,7 +42,11 @@ header p {
 
 /* Sections */
 section {
-  margin-bottom: 6rem;
+  margin-bottom: 4rem;
+}
+
+.contact {
+  margin-bottom: 2rem;
 }
 
 h2 {
@@ -124,7 +128,7 @@ section p {
     /* align-items: center; */
     justify-content: start;
     flex-direction: column;
-    padding: 2rem;
+    padding: 1rem;
   }
 
   .head {
