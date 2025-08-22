@@ -29,7 +29,7 @@ header h2 {
 
 header p {
   margin: 0;
-  color: #aaa;
+  color: rgb(185, 185, 185);
 }
 
 #theme-toggle {
@@ -55,7 +55,7 @@ h2 {
 }
 
 section p {
-  color: #ccc;
+  color: rgb(185, 185, 185);
 }
 
 /* Projects */
@@ -69,7 +69,6 @@ section p {
 
 .project p {
   margin: 0.5rem 0;
-  color: #ccc;
 }
 
 .buttons {
@@ -88,7 +87,8 @@ section p {
 }
 
 .btn:hover {
-  background: #333;
+  background: black;
+  color: white;
 }
 
 .tags span {
@@ -135,8 +135,8 @@ section p {
     flex-direction: column;
     align-items: flex-start;
   }
+
   header {
     margin-top: 2rem;
   }
 }
-
