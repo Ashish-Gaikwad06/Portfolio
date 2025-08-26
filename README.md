@@ -9,13 +9,10 @@ This portfolio showcases my work, skills, and experiences. It's built to highlig
 - Sections for projects, skills, and contact information
 - Deployed using GitHub Pages
 
-### Tech Used
+### Tech Stack 
 - HTML
-- CSS
-- JavaScript
-
-### How to View
-Visit: https://ashish-gaikwad06.github.io/Portfolio/ to see the live site.
+- Vanilla CSS
+- Vanilla JavaScript
 
 ### Contributions
 Feedback and suggestions are welcome! Feel free to open an issue.
