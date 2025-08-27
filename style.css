@@ -23,7 +23,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 6rem;
+  margin-bottom: 4rem;
   margin-top: 1.4rem;
 }
 
@@ -178,6 +178,7 @@ body.light-theme .socials a {
     margin-top: 3.7rem;
   }
 }
+
 
 
 
