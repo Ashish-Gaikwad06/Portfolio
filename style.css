@@ -23,7 +23,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 3.5rem;
+  margin-bottom: 5rem;
   margin-top: 1.4rem;
 }
 
@@ -49,7 +49,7 @@ header p {
 
 /* Sections */
 section {
-  margin-bottom: 3.5rem;
+  margin-bottom: 5rem;
 }
 
 section h2 {
