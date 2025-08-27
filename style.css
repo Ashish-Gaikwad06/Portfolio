@@ -175,6 +175,11 @@ body.light-theme .socials a {
   }
 
   header {
-    margin-top: 2rem;
+    margin-top: 2.5rem;
   }
+
+  section {
+  margin-bottom: 3rem;
 }
+}
+
